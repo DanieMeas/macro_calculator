@@ -29,6 +29,9 @@ h1, h2 {
   font-family: 'Bree Serif', serif;
 
 }
+.buton:hover {
+  color: blue;
+}
 
 select {
   font-family: 'Bree Serif', serif;
@@ -40,7 +43,7 @@ form {
 }
 
 .active {
-  padding-left: 10px;
+  padding: 30px;
 }
 
 
