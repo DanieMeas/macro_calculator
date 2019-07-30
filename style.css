@@ -1,0 +1,51 @@
+body {
+  background: url('img.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
+  font-family: 'Bree Serif', serif;
+
+}
+h1, h2 {
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  margin-top: 40px;
+
+}
+
+.calculator {
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  vertical-align: middle;
+  margin-top: 30px;
+
+}
+
+
+.button {
+  text-align: center;
+  font-family: 'Bree Serif', serif;
+
+}
+
+select {
+  font-family: 'Bree Serif', serif;
+}
+
+form {
+  font-family: 'Bree Serif', serif;
+  padding-right: 10px;
+}
+
+.active {
+  padding-left: 10px;
+}
+
+
+
+
+ 
+
+
