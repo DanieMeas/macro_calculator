@@ -26,11 +26,13 @@ h1, h2 {
 .button {
   text-align: center;
   font-family: 'Bree Serif', serif;
+  border: none;
 }
 
 select {
   font-family: 'Bree Serif', serif;
   margin: 10px;
+  padding-top: 4px;
   outline:none;
   -webkit-box-shadow: none !important;
   -moz-box-shadow: none !important;
