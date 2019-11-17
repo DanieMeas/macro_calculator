@@ -23,7 +23,7 @@ h1, h2 {
   
 }
 
-#button {
+#totalCals {
   text-align: center;
   font-family: 'Bree Serif', serif;
   border: none;
@@ -48,9 +48,15 @@ form {
   padding-right: 10px;
   background-color: transparent;
   box-shadow: 0px 0px 0px !important;
+  
 
 }
+.weight {
+  font-size: 11px;
+ 
+ 
 
+}
 
 
 
